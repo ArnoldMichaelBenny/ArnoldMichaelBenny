@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArnoldMichaelBenny
 - 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Solidity
+
 
 
 <!---
